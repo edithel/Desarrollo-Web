@@ -2,4 +2,5 @@ Caso de prueba nro.1
 Test Unitario creado por desarrollo
 Caso de prueba nro 2.
 Nuevo caso de prueba nro 3.
-Resultado obtenido:Ok
+Resultado obtenido:Ok paso la prueba
+
