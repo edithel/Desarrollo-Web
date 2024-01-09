@@ -1,2 +1,3 @@
 Testingest cases nro 1
-Equipo de Testing
+Test Cases nro 1
+Equipo de testing
